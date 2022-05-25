@@ -27,7 +27,7 @@ club3 = Club(nombre="Liga de Quito", deporte="Fútbol", \
         fundacion=1940)
 
 # Se crean objeto de tipo Jugador
-#
+
 jugador1 = Jugador(nombre ="Damian Diaz", dorsal=10, posicion="mediocampo", \
         club=club1)
 jugador2 = Jugador(nombre ="Matias Oyola", dorsal=18, posicion="mediocampo", \
